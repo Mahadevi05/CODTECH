@@ -29,7 +29,11 @@ Develop a user-friendly To-Do List application that allows users to easily manag
 
 **KEY ACTIVITIES:
 
-Implement HTML Structure: Create the basic structure for the To-Do List application.Apply CSS Styling: Style the application to match the design mockups. Implement responsive design techniques. Develop JavaScript Functionality: Write code to handle adding, checking, and removing tasks. Implement local storage to save tasks across sessions.
+Implement HTML Structure: Create the basic structure for the To-Do List application.
+
+Apply CSS Styling: Style the application to match the design mockups. Implement responsive design techniques.
+
+Develop JavaScript Functionality: Write code to handle adding, checking, and removing tasks. Implement local storage to save tasks across sessions.
 
 **TECHNOLOGIES USED:
 
