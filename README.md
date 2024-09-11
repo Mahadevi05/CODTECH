@@ -44,4 +44,5 @@ HTML (HyperText Markup Language)
 CSS (Cascading Style Sheets)
 
 JavaScript.
+
 Data Storage:Local Storage (Web Storage API).
