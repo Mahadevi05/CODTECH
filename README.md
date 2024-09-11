@@ -33,5 +33,11 @@ Implement HTML Structure: Create the basic structure for the To-Do List applicat
 
 **TECHNOLOGIES USED:
 
-Front-End Technologies:HTML (HyperText Markup Language),CSS (Cascading Style Sheets),JavaScript.
+Front-End Technologies:
+
+HTML (HyperText Markup Language)
+
+CSS (Cascading Style Sheets)
+
+JavaScript.
 Data Storage:Local Storage (Web Storage API).
